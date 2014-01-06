@@ -1,0 +1,23 @@
+{
+  "name": "node-tvm",
+  "version": "0.0.1",
+  "author": "Scott Raymond <sco@scottraymond.net>",
+  "description": "a simple TVM",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sco/node-tvm.git"
+  },
+  "keywords": [
+    "aws",
+    "tvm",
+    "sts"
+  ],
+  "dependencies" : {
+    "aws-sdk": "*",
+    "express": "*"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10.18"
+  }
+}
